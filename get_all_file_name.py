@@ -1,7 +1,7 @@
 import os
 
 relativepath = 'relative_path.txt'  # 生成相对路径的txt
-absolutepath = 'Absolute_path.txt'  # 绝对路径的txt
+absolutepath = 'absolute_path.txt'  # 绝对路径的txt
 fw_rel = open(relativepath, "w")
 fw_abs = open(absolutepath, "w")
 
